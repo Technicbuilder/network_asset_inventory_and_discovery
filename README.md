@@ -3,8 +3,6 @@
 MY FOCUS:
 - using more comments
 - reducing duplicate / excess code blocks
-- 
-
 
 My program should answer the following questions when used:
 
